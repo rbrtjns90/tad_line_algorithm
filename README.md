@@ -58,7 +58,7 @@ The program will display:
 ```
 === Test: shallow +slope  (2,2)->(45,5) ===
 Single-run:  TAD 8.8 = 0 us,   Bresenham = 0 us
-Match: NO ❌   (plotsum=165367963863)
+Match: NO    (plotsum=165367963863)
 
 [TAD 8.8 Fixed-Point]
 ................................................
